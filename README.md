@@ -34,7 +34,7 @@ Hardware connections:
 
 Handsfree specific:
 Unsolder the wires of the microphone and solder longer leads on it. Then stick it in on of the holes of the face plate like so:
-![Alt text](https://ibb.co/hayFFx][img]https://preview.ibb.co/kB1D2c/IMG_20180224_152904.jpg "Microphone")
+![Alt text](https://ibb.co/hayFFx][img]https://preview.ibb.co/kB1D2c/IMG_20180224_152904.jpg)
 
 Video demo:
-![Alt text](https://www.youtube.com/watch?v=of_FWERjKOs "Demo")
+![Alt text](https://www.youtube.com/watch?v=of_FWERjKOs)
