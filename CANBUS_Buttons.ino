@@ -27,7 +27,7 @@ Serial.begin(230400);
   delay(1);                                // give RF section time to shutdown
   system_update_cpu_freq(FREQUENCY);
 
-  while (CAN_OK != CAN.begin(CAN_50KBPS))              // init can bus : baudrate = 500k
+  while (CAN_OK != CAN.begin(CAN_50KBPS, MCP_16MHz))              // init can bus : baudrate = 500k
   {
     Serial.println("CAN BUS no es bueno!"); // Ref to AvE
     delay(1000);
