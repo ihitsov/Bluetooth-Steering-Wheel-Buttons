@@ -32,6 +32,9 @@ Hardware connections:
 - Connect CAN H and CAN L from the MCP to the back board of the headunit (they are clearly marked)
 - Connect the power lined of the ESP, MCP and Bluetooth together and put some kind of filter cap on the bluetooth device (optional)
 
+More information here:
+http://www.trionictuning.com/forum/viewtopic.php?f=46&t=7436&p=76538&hilit=bluetooth+steering+wheel#p76538
+
 Handsfree specific:
 Unsolder the wires of the microphone and solder longer leads on it. Then stick it in on of the holes of the face plate like so:
 ![Microphone](https://preview.ibb.co/kB1D2c/IMG_20180224_152904.jpg)
